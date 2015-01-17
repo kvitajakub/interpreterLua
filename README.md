@@ -4,7 +4,7 @@ Interpreter of part of [Lua](http://en.wikipedia.org/wiki/Lua_(programming_langu
 
 Program can deal with most common situations like ifs, cycles, variables, expressions, comments, functions and also have internal functions for sorting (Merge sort) and substring localization.
 
-Project was created as part of (school)[http://www.fit.vutbr.cz/] course about compilers.
+Project was created as part of [school](http://www.fit.vutbr.cz/) course about compilers.
 
 December 2011
 
